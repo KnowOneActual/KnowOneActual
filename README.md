@@ -32,7 +32,8 @@ I'm always learning and expanding my skillset. Currently, I'm actively expanding
 I'm always open to discussing new opportunities and connecting with other professionals.
 
   * **Main Site:** [beaubremer.com](https://beaubremer.com)
-  * **Blog:** [blog.beaubremer.com](https://www.google.com/search?q=https://blog.beaubremer.com)
+  * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
+  * **Fun Site:** [ProfitandEgo.com](https://profitandego.com)
 
 <!--
 **KnowOneActual/KnowOneActual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
