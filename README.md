@@ -33,7 +33,7 @@ I'm always open to discussing new opportunities and connecting with other profes
 
   * **Main Site:** [beaubremer.com](https://beaubremer.com)
   * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
-  * **Fun Site:** [ProfitandEgo.com](https://profitandego.com)
+  * **EaaS | Ego as a Service:** [ProfitandEgo.com](https://profitandego.com)
 
 <!--
 **KnowOneActual/KnowOneActual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
