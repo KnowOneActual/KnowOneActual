@@ -29,7 +29,7 @@ I'm always learning and expanding my skillset. Currently, I'm actively expanding
 
 ### Let's Connect
 
-I'm always open to discussing new opportunities and connecting with other professionals.
+I'm always open to hearing about ways I can improve.
 
   * **Main Site:** [beaubremer.com](https://beaubremer.com)
   * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
