@@ -34,7 +34,7 @@ I'm always open to hearing about ways I can improve.
   * **Main Site:** [beaubremer.com](https://beaubremer.com)
   * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
   * **EaaS | Ego as a Service:** [ProfitandEgo.com](https://profitandego.com)
-
+  * **The Tuesday Firm:** [ProfitandEgo.com](https://tuesdayfirm.dev)
 <!--
 **KnowOneActual/KnowOneActual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
