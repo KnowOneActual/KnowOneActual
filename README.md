@@ -5,7 +5,6 @@
 
 ### Hi there, I'm Beau Bremer
 
-### Hi there, I'm Beau Bremer
 
 I'm a tech generalist with a deep-seated passion for ensuring systems run smoothly and efficiently. With a background spanning IT operations, audio-visual technical services, and project management, I bring a highly analytical and solution-oriented approach to complex challenges.
 
