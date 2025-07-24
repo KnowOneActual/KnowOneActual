@@ -20,7 +20,7 @@ Here are a few highlights of what you'll find in my repositories:
       * **AV IP Subnet Calculator:** A fast IP subnet calculator designed for AV technicians to plan on-site networks by mapping specific gear to IP addresses.
       * **Network Latency Monitor:** A client-side tool to monitor the availability and latency of network endpoints in real-time.
   * **[Eleventy Blog with a Security-First Approach](https://blog.beaubremer.com)**: I built my personal blog using the static site generator Eleventy. I took a security-first approach, implementing a strong Content Security Policy (CSP) and other security headers to harden it against modern web vulnerabilities. I also focused on performance by adding features like automatic image optimization.
-  * **[Data Visualization Insights](https://www.google.com/search?q=https://beaubremer.com/trends.html)**: An interactive infographic project that showcases industry trends and market research, demonstrating effective data presentation using Chart.js.
+  * **[Data Visualization Insights](https://beaubremer.com/trends.html)**: An interactive infographic project that showcases industry trends and market research, demonstrating effective data presentation using Chart.js.
 
 ### What I'm Focused On
 
@@ -39,7 +39,7 @@ I'm always open to hearing about ways I can improve.
   * **Main Site:** [beaubremer.com](https://beaubremer.com)
   * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
   * **EaaS | Ego as a Service:** [ProfitandEgo.com](https://profitandego.com)
-  * **The Tuesday Firm:** [ProfitandEgo.com](https://tuesdayfirm.dev)
+  * **The Tuesday Firm:** [Tuesdayfirm.dev](https://tuesdayfirm.dev)
 <!--
 **KnowOneActual/KnowOneActual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
