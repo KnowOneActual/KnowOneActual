@@ -5,7 +5,11 @@
 
 ### Hi there, I'm Beau Bremer
 
+### Hi there, I'm Beau Bremer
+
 I'm a tech generalist with a deep-seated passion for ensuring systems run smoothly and efficiently. With a background spanning IT operations, audio-visual technical services, and project management, I bring a highly analytical and solution-oriented approach to complex challenges.
+
+⚡ Fun fact: When I'm not troubleshooting networks, I'm usually hunting for new music or starting my journey into learning how to create it.
 
 This GitHub profile is where I explore my interests in code, build practical tools, and document my learning journey.
 
