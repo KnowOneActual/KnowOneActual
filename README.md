@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="350">
+  <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300" height="200">
 </p>
 
 
