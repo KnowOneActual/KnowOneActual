@@ -6,7 +6,7 @@ I'm a tech generalist with a deep-seated passion for ensuring systems run smooth
 
 ⚡ Fun fact: When I'm not troubleshooting networks, I'm usually hunting for new music or starting my journey into learning how to create it.
 
-This GitHub profile is where I explore my interests in code, build practical tools, and document my learning journey.
+This GitHub profile is where I explore my interests in code, build practical tools, and document my learning journey, often sharing insights and lessons learned on [My Blog](https://blog.beaubremer.com/).
 
 -----
 
