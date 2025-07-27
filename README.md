@@ -10,7 +10,7 @@ This GitHub profile is where I explore my interests in code, build practical too
 
 -----
 
-### Featured Projects https://beaubremer.com/weather
+### Projects
 
 Here are a few highlights of what you'll find in my repositories. This is a living project where I experiment with new technologies and show my work.
 
