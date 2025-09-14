@@ -39,4 +39,4 @@ I'm always open to hearing about ways I can improve.
   * **EaaS | Ego as a Service:** [ProfitandEgo.com](https://profitandego.com)
   * **The Tuesday Firm:** [Tuesdayfirm.dev](https://tuesdayfirm.dev)
   * **RGBsquared Media Group:** [RGBsquared.com](https://rgbsquared.com)
-  * **Privacy Version of the Main Site:** [Tor Browser via this link](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion) *Only viewable via The Tor Browser
+  * **This service is down** Privacy Version of the Main Site:** [Tor Browser via this link](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion) *Only viewable via The Tor Browser
