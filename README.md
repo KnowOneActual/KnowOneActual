@@ -10,6 +10,15 @@ This GitHub profile is where I explore my interests in code, build practical too
 
 -----
 
+### Skills & Technologies
+
+* **Languages:** Python, JavaScript
+* **Tools & Platforms:** Wireshark, Eleventy, Chart.js, Git
+* **APIs:** Google Gemini API, OpenWeatherMap API, MindMax API
+* **Core Concepts:** Network Troubleshooting, Automation & Scripting, Web Security (CSP), Data Visualization, IT Operations
+
+-----
+
 ### Projects
 
 Here are a few highlights of what you'll find in my repositories. This is a living project where I experiment with new technologies and show my work.
