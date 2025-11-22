@@ -1,41 +1,61 @@
-<p align="center">
-  <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300" height="200">
-</p>
+<div align="center">
+  <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300">
+  
+  # Hi, I'm Beau.
+  
+  **AV/IT Project Lead & Python Developer**
+  
+  <a href="https://beaubremer.com">Website</a> • <a href="https://blog.beaubremer.com">Blog</a> • <a href="https://bsky.app/profile/grimburly.xyz">Bluesky</a>
+</div>
 
-I'm a tech generalist with a deep-seated passion for ensuring systems run smoothly and efficiently. With a background spanning IT operations, audio-visual technical services, and project management, I bring a highly analytical and solution-oriented approach to complex challenges.
+---
 
-⚡ Fun fact: When I'm not troubleshooting networks, I'm usually hunting for new music or starting my journey into learning how to create it.
+### About Me
 
-This GitHub profile is where I explore my interests in code, build practical tools, and document my learning journey, often sharing insights and lessons learned on [My Blog](https://blog.beaubremer.com/).
+I spent over a decade managing complex audiovisual systems and IT operations in Chicago. Now, I use that experience to write code that solves the headaches I used to deal with manually.
 
------
+I specialize in **Python automation** and **network troubleshooting**. If a task is repetitive or a system is broken, I usually write a script to fix it.
 
-### Skills & Technologies
+⚡ **Fun fact:** When I'm not analyzing packets in Wireshark, I'm usually hunting for obscure music or learning how to produce it.
 
-* **Languages:** Python, JavaScript
-* **Tools & Platforms:** Wireshark, Eleventy, Chart.js, Git
-* **APIs:** Google Gemini API, OpenWeatherMap API, MindMax API, IP API
-* **Core Concepts:** Network Troubleshooting, Automation & Scripting, Web Security (CSP), Data Visualization, IT Operations
+---
 
------
+### 🛠️ The Toolbox
 
-### Projects
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Here are a few highlights of what you'll find in my repositories. This is a living project where I experiment with new technologies and show my work.
+**Core Tech**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Eleventy](https://img.shields.io/badge/Eleventy-222222?style=flat-square&logo=eleventy&logoColor=white) ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-* **[Conversational Weather Bot](https://beaubremer.com/weather):** An interactive chatbot built with JavaScript that integrates with Google's Gemini API for natural language processing and the OpenWeatherMap API for live weather data.
-* **[AV IP Subnet Calculator](https://beaubremer.com/ip_subnet_calculator):** A fast IP subnet calculator designed for AV technicians to plan on-site networks by mapping specific gear to IP addresses.
-* **Network Latency Monitor:** A client-side tool to monitor the availability and latency of network endpoints in real-time.
-* **[Eleventy Blog with a Security-First Approach](https://blog.beaubremer.com):** I built my personal blog using the static site generator Eleventy. I took a security-first approach, implementing a strong Content Security Policy (CSP) and other security headers to harden it against modern web vulnerabilities. I also focused on performance by adding features like automatic image optimization.
-* **[Data Visualization Insights](https://www.google.com/search?q=https://beaubremer.com/trends.html):** An interactive infographic project that showcases industry trends and market research, demonstrating effective data presentation using Chart.js.
+---
 
-### What I'm Focused On
+### 🔭 Featured Repositories
 
-I'm always learning and expanding my skillset. Currently, I'm actively expanding my capabilities in:
+I build tools to streamline workflows and diagnose network issues.
 
-  * **Network Troubleshooting:** Using tools like Wireshark for deep packet analysis.
-  * **Automation:** Leveraging Python for scripting to enhance operational efficiency.
-  * **Writing:** Sharing my experiences and what I'm learning on my blog.
+#### 🖥️ System & Workflow Automation
+* **[macos-dev-launcher](https://github.com/KnowOneActual/macos-dev-launcher):** A macOS Quick Action I wrote to speed up my daily startup routine.
+* **[Project_Starter_Script](https://github.com/KnowOneActual/Project_Starter_Script):** A Bash script to instantly scaffold new GitHub projects with my preferred boilerplate.
+* **[python-venv-manager](https://github.com/KnowOneActual/python-venv-manager):** A simple CLI tool to create and manage Python virtual environments without the usual friction.
+
+#### 📡 Network & Utilities
+* **[Network-Triage-Tool](https://github.com/KnowOneActual/Network-Triage-Tool):** A standalone GUI app for network pros to quickly diagnose connection issues on the fly.
+* **[py_network_port_scan](https://github.com/KnowOneActual/py_network_port_scan):** A multi-threaded TCP port scanner for checking endpoint availability.
+* **[wireshark-profiles](https://github.com/KnowOneActual/wireshark-profiles):** A guide and config set for backing up Wireshark profiles using Git—essential for AV/IT techs moving between sites.
+
+---
+
+### 📝 Latest from the Blog
+
+I document what I learn so I don't have to Google it twice.
+
+* Check out my **[Security-First Eleventy Blog](https://blog.beaubremer.com)** where I write about implementing Content Security Policies (CSP) and image optimization.
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Beau's GitHub Stats" />
+</div>
 
 -----
 
