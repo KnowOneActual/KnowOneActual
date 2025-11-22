@@ -53,7 +53,7 @@ I build tools to streamline workflows and diagnose network issues.
 ### 📝 Latest from the Blog
 
 I document what I learn so I don't have to Google it twice.
-
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 <div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Beau's GitHub Stats" />
