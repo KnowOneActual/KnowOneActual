@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300">
+  <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300">
   
   # Hi, I'm Beau.
   
