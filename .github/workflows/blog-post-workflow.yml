@@ -1,11 +1,11 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
 
 permissions:
-  contents: write # IMPORTANT: This allows the action to update your README
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -18,12 +18,10 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Your specific feed URL
           feed_list: "https://blog.beaubremer.com/feed/feed.xml"
           
-          # The "Secret Handshake" found in your fetch-posts.js file
-          # This matches the Skip rule you configured in Cloudflare
+          # This MUST match the "secret" User-Agent in your fetch-posts.js file
           user_agent: "Beau-Bremer-Website-Blog-Fetcher/1.0"
           
-          # Standard headers to ensure it looks like a valid request
+          # These headers help ensure the request looks correct to the server
           accept_header: "application/xml, text/xml, application/rss+xml"
