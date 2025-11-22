@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,22 +15,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Step 1: Manually fetch the feed using your "Secret Handshake"
-      # We use curl because it gives us perfect control over the headers
-      - name: Fetch RSS Feed
+      - name: Fetch RSS Feed (Debug Mode)
         run: |
-          curl -v -H "User-Agent: Beau-Bremer-Website-Blog-Fetcher/1.0" \
-          https://blog.beaubremer.com/feed/feed.xml \
+          # -L follows redirects, --compressed handles gzip (common with Cloudflare)
+          curl -L --compressed -v \
+          -H "User-Agent: Beau-Bremer-Website-Blog-Fetcher/1.0" \
+          -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+          "https://blog.beaubremer.com/feed/feed.xml" \
           -o feed.xml
+          
+          # Print the first 10 lines to the log so we can see if it's HTML or XML
+          echo "--- FILE CONTENT PREVIEW ---"
+          head -n 10 feed.xml
+          echo "----------------------------"
 
-      # Step 2: Start a simple local server to serve the file
-      # The plugin expects a URL, so we give it a local one
       - name: Start Local Server
         run: python3 -m http.server 8081 &
 
-      # Step 3: Run the action pointing to localhost
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Point to the local server we just started
           feed_list: "http://localhost:8081/feed.xml"
