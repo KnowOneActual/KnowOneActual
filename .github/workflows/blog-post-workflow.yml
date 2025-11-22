@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
+  workflow_dispatch: # Run workflow manually
 
 permissions:
   contents: write
@@ -18,12 +18,11 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # 1. Connect to your Proxy (which acts as the tunnel)
-          feed_list: "bb-main-site.netlify.app/.netlify/functions/rss-proxy"
+          # FIXED: Added "https://" to the beginning
+          feed_list: "https://bb-main-site.netlify.app/.netlify/functions/rss-proxy"
           
-          # 2. CRITICAL: Send the "Secret Handshake" User-Agent here too.
-          # This tells Cloudflare: "It's okay, I'm allowed to access the Proxy."
+          # Keep the secret handshake so the Proxy allows the request
           user_agent: "Beau-Bremer-Website-Blog-Fetcher/1.0"
           
-          # Standard headers to look like a valid browser request
+          # Standard headers
           accept_header: "application/xml, text/xml, application/rss+xml"
