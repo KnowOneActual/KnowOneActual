@@ -59,14 +59,13 @@ I document what I learn so I don't have to Google it twice.
 
 -----
 
-### Let's Connect
+### 🌐 Where to Find Me
 
-I'm always open to hearing about ways I can improve.
+| **Ventures & Projects** | **Socials** |
+| :--- | :--- |
+| 🏢 **[RGBsquared Media Group](https://rgbsquared.com)** (AV/IT Services) | 🦋 **[Bluesky](https://bsky.app/profile/grimburly.xyz)** |
+| 💻 **[The Tuesday Firm](https://tuesdayfirm.dev)** (Dev Projects) | 🐘 **[Mastodon](https://defcon.social/@GrimBurly)** |
+| 🕶️ **[ProfitandEgo.com](https://profitandego.com)** (EaaS and Comedy) | 🔒 **[Tor/Onion Site](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion)** |
 
-  * **Main Site:** [beaubremer.com](https://beaubremer.com)
-  * **Blog:** [blog.beaubremer.com](https://blog.beaubremer.com)
-  * **EaaS | Ego as a Service:** [ProfitandEgo.com](https://profitandego.com)
-  * **The Tuesday Firm:** [Tuesdayfirm.dev](https://tuesdayfirm.dev)
-  * **RGBsquared Media Group:** [RGBsquared.com](https://rgbsquared.com)
-  * **GrimBurly.xyz:** [GrimBurly.xyz](https://GrimBurly.xyz)
-  * **Privacy Version of the Main Site:** [Tor Browser via this link](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion) *Only viewable via The Tor Browser
+<br />
+</div>
