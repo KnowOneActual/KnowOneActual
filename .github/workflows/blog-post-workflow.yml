@@ -19,7 +19,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           # 1. Connect to your Proxy (which acts as the tunnel)
-          feed_list: "https://beaubremer.com/.netlify/functions/rss-proxy"
+          feed_list: "bb-main-site.netlify.app/.netlify/functions/rss-proxy"
           
           # 2. CRITICAL: Send the "Secret Handshake" User-Agent here too.
           # This tells Cloudflare: "It's okay, I'm allowed to access the Proxy."
