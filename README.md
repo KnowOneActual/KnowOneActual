@@ -54,8 +54,6 @@ I build tools to streamline workflows and diagnose network issues.
 
 I document what I learn so I don't have to Google it twice.
 
-* Check out my **[Security-First Eleventy Blog](https://blog.beaubremer.com)** where I write about implementing Content Security Policies (CSP) and image optimization.
-
 <div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Beau's GitHub Stats" />
