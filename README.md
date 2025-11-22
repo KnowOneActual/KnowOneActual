@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300">
+  <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau's awesome Badge goes here" width="300">
   
   # Hi, I'm Beau.
   
@@ -7,10 +7,6 @@
   
   <a href="https://beaubremer.com">Website</a> • <a href="https://blog.beaubremer.com">Blog</a> • <a href="https://bsky.app/profile/grimburly.xyz">Bluesky</a>
 </div>
-
-<p align="center">
-  <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300" height="200">
-</p>
 
 ---
 
