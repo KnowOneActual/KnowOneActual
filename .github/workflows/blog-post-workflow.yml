@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually anytime
 
 permissions:
   contents: write
@@ -18,10 +19,10 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # FIXED: Added "https://" to the beginning
+          # The internal Netlify address that successfully fetched 42 posts
           feed_list: "https://bb-main-site.netlify.app/.netlify/functions/rss-proxy"
           
-          # Keep the secret handshake so the Proxy allows the request
+          # The secret handshake to get past Cloudflare
           user_agent: "Beau-Bremer-Website-Blog-Fetcher/1.0"
           
           # Standard headers
