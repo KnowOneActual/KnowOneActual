@@ -20,4 +20,4 @@ jobs:
         with:
           # This points to the proxy function you created on your site
           # It tricks Cloudflare into thinking the request is internal/safe
-          feed_list: "https://beaubremer.com/.netlify/functions/rss-proxy"
+          feed_list: "https://beaubremer.com/netlify/functions/rss-proxy"
