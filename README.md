@@ -66,6 +66,4 @@ I document what I learn so I don't have to Google it twice.
 | 🏢 **[RGBsquared Media Group](https://rgbsquared.com)** (AV/IT Services) | 🦋 **[Bluesky](https://bsky.app/profile/grimburly.xyz)** |
 | 💻 **[The Tuesday Firm](https://tuesdayfirm.dev)** (Dev Projects) | 🐘 **[Mastodon](https://defcon.social/@GrimBurly)** |
 | 🕶️ **[ProfitandEgo.com](https://profitandego.com)** (EaaS and Comedy) | 🔒 **[Tor/Onion Site](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion)** |
-
-<br />
-</div>
+| >_ **[GrimBurly.xyz](https://grimbuly.xyz/)** (Social Site) | 
