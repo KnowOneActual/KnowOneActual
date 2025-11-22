@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
 
 permissions:
-  contents: write # IMPORTANT: This allows the action to update your README
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -18,6 +18,12 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # This points to the proxy function you created on your site
-          # It tricks Cloudflare into thinking the request is internal/safe
-          feed_list: "https://beaubremer.com/netlify/functions/rss-proxy"
+          # 1. Connect to your Proxy (which acts as the tunnel)
+          feed_list: "https://beaubremer.com/.netlify/functions/rss-proxy"
+          
+          # 2. CRITICAL: Send the "Secret Handshake" User-Agent here too.
+          # This tells Cloudflare: "It's okay, I'm allowed to access the Proxy."
+          user_agent: "Beau-Bremer-Website-Blog-Fetcher/1.0"
+          
+          # Standard headers to look like a valid browser request
+          accept_header: "application/xml, text/xml, application/rss+xml"
