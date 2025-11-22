@@ -1,4 +1,23 @@
-- uses: gautamkrishnar/blog-post-workflow@master
-  with:
-    # Point to your new "Trusted Proxy"
-    feed_list: "https://beaubremer.com/.netlify/functions/rss-proxy"
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
+
+permissions:
+  contents: write # IMPORTANT: This allows the action to update your README
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # This points to the proxy function you created on your site
+          # It tricks Cloudflare into thinking the request is internal/safe
+          feed_list: "https://beaubremer.com/.netlify/functions/rss-proxy"
