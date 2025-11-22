@@ -53,7 +53,13 @@ I build tools to streamline workflows and diagnose network issues.
 ### 📝 Latest from the Blog
 
 I document what I learn so I don't have to Google it twice.
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Your Best Skill Isn&#39;t Knowing Everything](https://blog.beaubremer.com/posts/your_best_skill_isnt_knowing_everything/)
+- [How to Bulk Delete Thousands of Old Emails in Gmail](https://blog.beaubremer.com/posts/how_to_bulk_delete_thousands_of_old_emails_in_gmail/)
+- [Getting a handle on .gitignore: A Guide to a Cleaner Git Repo](https://blog.beaubremer.com/posts/mastering_gitignore_a_complete_guide_to_a_cleaner_git_repo/)
+- [Terminal Tips: A Guide to Bash Aliases](https://blog.beaubremer.com/posts/a_guide_to_bash_aliases/)
+- [Terminal Tips: A Guide to Zsh Aliases](https://blog.beaubremer.com/posts/a_guide_to_zsh_aliases/)
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Beau's GitHub Stats" />
