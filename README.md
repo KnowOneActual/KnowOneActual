@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <div align="center">
   <img src="img/proflle/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300">
   
@@ -12,7 +11,6 @@
 <p align="center">
   <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau Bremer Badge" width="300" height="200">
 </p>
->>>>>>> Stashed changes
 
 ---
 
