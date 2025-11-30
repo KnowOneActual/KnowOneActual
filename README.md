@@ -12,7 +12,7 @@
 
 ### About Me
 
-I spent over two decades managing complex audiovisual systems and IT operations in Chicago. After years of fixing the same issues manually, I started writing code to do it for me.
+I spent over a decade managing complex audiovisual systems and IT operations in Chicago. After years of fixing the same issues manually, I started writing code to do it for me.
 
 I specialize in **Python automation** and **network troubleshooting**. If a task is boring, repetitive, or broken, I’ll usually write a script to fix it (or at least try to).
 
