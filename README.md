@@ -52,11 +52,11 @@ I specialize in **Python automation** and **network troubleshooting**. If a task
 I write things down so I don't have to Google them twice (or that's the plan ☺️).
 
 <!-- BLOG-POST-LIST:START -->
+- [Security is a Process, Not a Product](https://blog.beaubremer.com/posts/security_is_a_process_not_a_product/)
 - [My Server Died and I like It :&rpar; : A Guide to Backups After a Crisis](https://blog.beaubremer.com/posts/my_server_died_and_i_like_it/)
 - [Your Best Skill Isn&#39;t Knowing Everything](https://blog.beaubremer.com/posts/your_best_skill_isnt_knowing_everything/)
 - [How to Bulk Delete Thousands of Old Emails in Gmail](https://blog.beaubremer.com/posts/how_to_bulk_delete_thousands_of_old_emails_in_gmail/)
 - [Getting a handle on .gitignore: A Guide to a Cleaner Git Repo](https://blog.beaubremer.com/posts/mastering_gitignore_a_complete_guide_to_a_cleaner_git_repo/)
-- [Terminal Tips: A Guide to Bash Aliases](https://blog.beaubremer.com/posts/a_guide_to_bash_aliases/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
