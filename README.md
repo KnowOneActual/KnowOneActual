@@ -3,7 +3,7 @@
   
   # Hi, I'm Beau.
   
-  **AV/IT Project Lead & Python Developer who writes code to avoid doing things twice.**
+  **AV/IT Project Lead & Python enthusiast who writes code to avoid doing things twice.**
   
   <a href="https://beaubremer.com">Website</a> • <a href="https://blog.beaubremer.com">Blog</a> • <a href="https://bsky.app/profile/grimburly.xyz">Bluesky</a>
 </div>
