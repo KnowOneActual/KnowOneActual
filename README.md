@@ -72,5 +72,5 @@ I write things down so I don't have to Google them twice (or that's the plan ☺
 | :--- | :--- |
 | 🏢 **[RGBsquared Media](https://rgbsquared.com)** (AV/IT) | 🦋 **[Bluesky](https://bsky.app/profile/grimburly.xyz)** |
 | 💻 **[The Tuesday Firm](https://tuesdayfirm.dev)** (Dev) | 🐘 **[Mastodon](https://defcon.social/@GrimBurly)** |
-| 🕶️ **[ProfitandEgo.com](https://profitandego.com)** (Comedy) | 🔒 **[Tor/Onion Site](http://32fd3d4gq3u4qqpofstaiq3sf3h6tnyrdpqdcgdszbrhovv25yfxzhqd.onion)** |
+| 🕶️ **[ProfitandEgo.com](https://profitandego.com)** (Comedy) | 🔒 **[Tor/Onion Site](http://wb7kwfl6bygqg4zh2fdk7jk6v2ab3bhmjo63xtdm2nltl33vuwoqlkqd.onion/)** |
 | >_ **[GrimBurly.xyz](https://grimburly.xyz)** (Social) | |
