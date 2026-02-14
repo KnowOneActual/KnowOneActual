@@ -80,10 +80,3 @@ I write about AV/IT automation, network troubleshooting, and lessons learned bui
 | >_ [GrimBurly.xyz](https://grimburly.xyz) – Personal hub | |
 
 ---
-<div align="center">
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-    alt="My GitHub Stats"
-  />
-</div>
