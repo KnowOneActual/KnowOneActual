@@ -38,7 +38,7 @@ I specialize in **Python automation**, **network troubleshooting**, and **full-s
 
 ### 🚀 Live Projects You Can Use
 
-*Tools I built because I needed them.*
+*Tools I built to learn.*
 
 - **[Conversational Weather Bot](https://beaubremer.com/weather)** – Chat‑based weather assistant powered by Google’s Gemini API and OpenWeatherMap.  
 - **[AV IP Subnet Calculator](https://beaubremer.com/ip_subnet_calculator)** – Fast subnet calculator tailored for AV techs wiring sites in the field.  
