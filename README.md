@@ -17,7 +17,7 @@ I spent over a decade managing complex audiovisual systems and IT operations in 
 
 I specialize in **Python automation**, **network troubleshooting**, and **full‑stack tooling** for AV/IT environments. If a task is boring, repetitive, or broken, I’ll write a script (or at least try).
 
-⚡ **Fun fact:** When I’m not staring at Wireshark packet captures, I’m hunting for obscure music or figuring out how to produce it.
+⚡ **Fun fact:** Outside of work, I'm usually hunting for obscure music or figuring out how to produce it myself.
 
 ---
 
