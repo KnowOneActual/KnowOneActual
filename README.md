@@ -13,9 +13,10 @@
 
 ### Who I Am
 
-I spent over a decade managing complex audiovisual systems and IT operations in Chicago. After years of fixing the same issues manually, I started writing code to do it for me.
+I've spent over a decade managing complex audiovisual systems and IT operations in Chicago. After fixing the same issues manually for years, I started automating everything I could, and I try to build tools instead of just using them.
 
-I specialize in **Python automation**, **network troubleshooting**, and **full‑stack tooling** for AV/IT environments. If a task is boring, repetitive, or broken, I’ll write a script (or at least try).
+I specialize in **Python automation**, **network troubleshooting**, and **full-stack tooling** for AV/IT environments. If a task is boring, repetitive, or broken, I'll write a script to handle it.
+
 
 ⚡ **Fun fact:** Outside of work, I'm usually hunting for obscure music or figuring out how to produce it myself.
 
@@ -47,18 +48,17 @@ I specialize in **Python automation**, **network troubleshooting**, and **full�
 
 ### 🔧 Scripts & Utilities
 
-*Automation for the boring stuff.*
+- **[macos-dev-launcher](https://github.com/KnowOneActual/macos-dev-launcher)** – macOS Quick Action to launch my entire dev environment on startup.  
+- **[Project_Starter_Script](https://github.com/KnowOneActual/Project_Starter_Script)** – Bash script to scaffold new GitHub projects with my preferred structure.  
+- **[python-venv-manager](https://github.com/KnowOneActual/python-venv-manager)** – CLI for creating and managing Python virtual environments.  
+- **[wireshark-profiles](https://github.com/KnowOneActual/wireshark-profiles)** – Guide for backing up Wireshark profiles with Git—helpful for AV/IT techs working across multiple sites.
 
-- **[macos‑dev‑launcher](https://github.com/KnowOneActual/macos-dev-launcher)** – macOS Quick Action to launch dev tools and workflows on startup.  
-- **[Project_Starter_Script](https://github.com/KnowOneActual/Project_Starter_Script)** – Bash script to scaffold new GitHub projects with my preferred boilerplate.  
-- **[python‑venv‑manager](https://github.com/KnowOneActual/python-venv-manager)** – CLI tool to create and manage Python virtual environments without friction.  
-- **[wireshark‑profiles](https://github.com/KnowOneActual/wireshark-profiles)** – Guide for backing up Wireshark profiles with Git; helpful for AV/IT techs moving between sites.
 
 ---
 
 ### 📝 Latest from the Blog
 
-I write things down so I (and others) don’t have to Google them twice. [web:5][web:11]
+I write about AV/IT automation, network troubleshooting, and lessons learned building tools in the field.
 
 <!-- BLOG-POST-LIST:START -->
 - [Thinking is the Tool: Hacking the Physical World](https://blog.beaubremer.com/posts/thinking_is_the_tool_hacking_the_physical_world/)
@@ -70,21 +70,20 @@ I write things down so I (and others) don’t have to Google them twice. [web:5]
 
 ---
 
+### 🌐 Connect
+
+| **Projects & Ventures** | **Social & Contact** |
+| :---------------------- | :------------------- |
+| 🏢 [RGBsquared Media](https://rgbsquared.com) – AV/IT consulting | 🦋 [Bluesky](https://bsky.app/profile/grimburly.xyz) |
+| 💻 [The Tuesday Firm](https://tuesdayfirm.dev) – Development services | 🐘 [Mastodon](https://defcon.social/@GrimBurly) |
+| 🕶️ [ProfitandEgo.com](https://profitandego.com) – Comedy project | 🔒 [Tor/Onion Site](http://wb7kwfl6bygqg4zh2fdk7jk6v2ab3bhmjo63xtdm2nltl33vuwoqlkqd.onion/) |
+| >_ [GrimBurly.xyz](https://grimburly.xyz) – Personal hub | |
+
+---
 <div align="center">
   <br />
   <img
     src="https://github-readme-stats.vercel.app/api?username=KnowOneActual&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-    alt="Beau's GitHub Stats"
+    alt="My GitHub Stats"
   />
 </div>
-
----
-
-### 🌐 Connect
-
-| **Ventures**                     | **Socials**                                         |
-| :------------------------------- | :-------------------------------------------------- |
-| 🏢 **[RGBsquared Media](https://rgbsquared.com)** (AV/IT) | 🦋 **[Bluesky](https://bsky.app/profile/grimburly.xyz)** |
-| 💻 **[The Tuesday Firm](https://tuesdayfirm.dev)** (Dev)   | 🐘 **[Mastodon](https://defcon.social/@GrimBurly)**      |
-| 🕶️ **[ProfitandEgo.com](https://profitandego.com)** (Comedy) | 🔒 **[Tor/Onion Site](http://wb7kwfl6bygqg4zh2fdk7jk6v2ab3bhmjo63xtdm2nltl33vuwoqlkqd.onion/)** |
-| >_ **[GrimBurly.xyz](https://grimburly.xyz)** (Social)     |                                                     |
