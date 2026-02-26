@@ -3,7 +3,7 @@
 
   # Hi, I'm Beau.
 
-  **AV/IT Project Lead & Python automation enthusiast who writes code to avoid doing things twice.**  
+  **AV/IT Project Lead, Python automation enthusiast, and Open Source Explorer who writes code to avoid doing things twice.**  
   I turn messy AV‑IT workflows into repeatable scripts and tools.
 
   <a href="https://beaubremer.com">Portfolio</a> • <a href="https://blog.beaubremer.com">Blog</a> • <a href="https://bsky.app/profile/grimburly.xyz">Bluesky</a>
