@@ -56,9 +56,21 @@ graph TD
 ### 🚀 Projects & Tools
 *A mix of field-tested utilities and learning experiments.*
 
+#### 🏆 Featured Project: [Network Triage Tool](https://github.com/KnowOneActual/Network-Triage-Tool)
+**The "Swiss Army Knife" for AV/IT Field Techs.**
+
+| **The Problem** | **The Solution** | **Tech Stack** |
+| :--- | :--- | :--- |
+| Disconnected tools (Nmap, Speedtest, Subnetting) slow down onsite triage. | A high-performance TUI that centralizes diagnostics into a single dashboard. | `Python`, `Textual`, `Nmap`, `Speedtest-CLI` |
+
+- ⚡ **Key Feature:** Live dashboard for real-time endpoint monitoring.
+- 🛠️ **Impact:** Streamlines troubleshooting in high-pressure live event environments.
+
+---
+
+#### 🔧 Other Utilities
 - **[Conversational Weather Bot](https://beaubremer.com/weather)** – AI-powered weather assistant using Gemini & OpenWeather.
 - **[AV IP Subnet Calculator](https://beaubremer.com/ip_subnet_calculator)** – Tailored for techs wiring sites in the field.
-- **[Network Latency Monitor](https://github.com/KnowOneActual/Network-Triage-Tool)** – Real-time endpoint triage for AV/IT.
 - **[macos-dev-launcher](https://github.com/KnowOneActual/macos-dev-launcher)** – A macOS Quick Action to spin up my dev environment.
 
 ---
