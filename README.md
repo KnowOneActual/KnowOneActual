@@ -25,21 +25,37 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 
 ```mermaid
 graph TD
+    subgraph Discovery
     A[Field Challenge] --> B{Repetitive?}
-    B -- Yes --> C[Automate with Python/Bash]
-    B -- No --> D[Manual Resolution & Documentation]
-    
+    end
+
+    subgraph The Manual Path
+    B -- No --> D[Manual Resolution]
+    D --> D1[Root Cause Analysis]
+    D1 --> D2[Documentation & SOPs]
+    end
+
+    subgraph The Automation Path
+    B -- Yes --> C[Python/Bash Automation]
     C --> E[Custom Tooling]
     E --> F[Network Triage Tool]
     E --> G[Subnet Calculator]
-    
-    F --> H[Faster Site Commissioning]
-    G --> H
-    H --> I[Scalable AV/IT Infrastructure]
-    
+    F --> F1[CI/CD & Version Control]
+    G --> F1
+    end
+
+    subgraph Final Outcome
+    D2 --> H[Scalable AV/IT Infrastructure]
+    F1 --> H
+    H --> I[Knowledge Sharing]
+    I --> J[Technical Blog]
+    I --> K[Open Source Community]
+    end
+
     style F fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style I fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
+    style H fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
+    style J fill:#f39c12,stroke:#fff,stroke-width:1px,color:#fff
 ```
 
 ---
