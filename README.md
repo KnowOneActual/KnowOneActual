@@ -20,46 +20,6 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 
 ---
 
-### 📐 How I Solve Problems
-*Bridging the gap between physical AV systems and automated IT workflows.*
-
-```mermaid
-graph TD
-    subgraph Discovery
-    A[Field Challenge] --> B{Repetitive?}
-    end
-
-    subgraph The Manual Path
-    B -- No --> D[Manual Resolution]
-    D --> D1[Root Cause Analysis]
-    D1 --> D2[Documentation & SOPs]
-    end
-
-    subgraph The Automation Path
-    B -- Yes --> C[Python/Bash Automation]
-    C --> E[Custom Tooling]
-    E --> F[Network Triage Tool]
-    E --> G[Subnet Calculator]
-    F --> F1[CI/CD & Version Control]
-    G --> F1
-    end
-
-    subgraph Final Outcome
-    D2 --> H[Scalable AV/IT Infrastructure]
-    F1 --> H
-    H --> I[Knowledge Sharing]
-    I --> J[Technical Blog]
-    I --> K[Open Source Community]
-    end
-
-    style F fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style G fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style H fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
-    style J fill:#f39c12,stroke:#fff,stroke-width:1px,color:#fff
-```
-
----
-
 ### 🛠️ The Toolkit
 *Clean, functional, and mostly open-source.*
 
@@ -101,6 +61,45 @@ graph TD
 - [The AV Pro&#39;s Guide to Bulletproof Video Playback](https://blog.beaubremer.com/posts/the_av_pro_guide_to_bulletproof_video_playback/)
 - [Security is a Process, Not a Product](https://blog.beaubremer.com/posts/security_is_a_process_not_a_product/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+### 📐 How I Solve Problems
+*Bridging the gap between physical AV systems and automated IT workflows.*
+
+```mermaid
+graph TD
+    subgraph Discovery
+    A[Field Challenge] --> B{Repetitive?}
+    end
+
+    subgraph The Manual Path
+    B -- No --> D[Manual Resolution]
+    D --> D1[Root Cause Analysis]
+    D1 --> D2[Documentation & SOPs]
+    end
+
+    subgraph The Automation Path
+    B -- Yes --> C[Python/Bash Automation]
+    C --> E[Custom Tooling]
+    E --> F[Network Triage Tool]
+    E --> G[Subnet Calculator]
+    F --> F1[CI/CD & Version Control]
+    G --> F1
+    end
+
+    subgraph Final Outcome
+    D2 --> H[Scalable AV/IT Infrastructure]
+    F1 --> H
+    H --> I[Knowledge Sharing]
+    I --> J[Technical Blog]
+    I --> K[Open Source Community]
+    end
+
+    style F fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    style H fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
+    style J fill:#f39c12,stroke:#fff,stroke-width:1px,color:#fff
+```
 
 ---
 
