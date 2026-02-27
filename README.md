@@ -20,6 +20,30 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 
 ---
 
+### 📐 How I Solve Problems
+*Bridging the gap between physical AV systems and automated IT workflows.*
+
+```mermaid
+graph TD
+    A[Field Challenge] --> B{Repetitive?}
+    B -- Yes --> C[Automate with Python/Bash]
+    B -- No --> D[Manual Resolution & Documentation]
+    
+    C --> E[Custom Tooling]
+    E --> F[Network Triage Tool]
+    E --> G[Subnet Calculator]
+    
+    F --> H[Faster Site Commissioning]
+    G --> H
+    H --> I[Scalable AV/IT Infrastructure]
+    
+    style F fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    style I fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+---
+
 ### 🛠️ The Toolkit
 *Clean, functional, and mostly open-source.*
 
