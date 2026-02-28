@@ -55,11 +55,11 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 *(Auto-updates from blog.beaubremer.com)*
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking is the Tool: Hacking the Physical World](https://blog.beaubremer.com/posts/thinking_is_the_tool_hacking_the_physical_world/)
-- [Why I Built My Own &#39;Link in Bio&#39; Page &lpar;And You Can Too&rpar;](https://blog.beaubremer.com/posts/build_a_link_in_bio_page/)
-- [The Git Commands I Actually Use Every Day &lpar;And Why&rpar;](https://blog.beaubremer.com/posts/the_git_commands_i_actually_use_every_day_(and_why)/)
-- [The AV Pro&#39;s Guide to Bulletproof Video Playback](https://blog.beaubremer.com/posts/the_av_pro_guide_to_bulletproof_video_playback/)
-- [Security is a Process, Not a Product](https://blog.beaubremer.com/posts/security_is_a_process_not_a_product/)
+- [Thinking is the Tool: Hacking the Physical World](https://blog.beaubremer.com/posts/thinking-is-the-tool-hacking-the-physical-world/)
+- [Why I Built My Own &#39;Link in Bio&#39; Page &lpar;And You Can Too&rpar;](https://blog.beaubremer.com/posts/build-a-link-in-bio-page/)
+- [The Git Commands I Actually Use Every Day &lpar;And Why&rpar;](https://blog.beaubremer.com/posts/the-git-commands-i-actually-use-every-day-and-why/)
+- [The AV Pro&#39;s Guide to Bulletproof Video Playback](https://blog.beaubremer.com/posts/the-av-pro-guide-to-bulletproof-video-playback/)
+- [Security is a Process, Not a Product](https://blog.beaubremer.com/posts/security-is-a-process-not-a-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
