@@ -12,7 +12,7 @@
 ---
 
 ### ☕ About Me
-I’ve spent a decade managing complex AV systems and IT operations in Chicago. I started automating things because I'm a firm believer that if you have to do it twice, it should probably be a script. 
+I've spent well over a decade managing complex AV systems and IT operations in Chicago. I started automating things because I believe that if you have to do it twice, it should probably be a script. 
 
 I specialize in **Python automation**, **network triage**, and **custom tooling** for live environments. When I'm not staring at a terminal, I'm usually hunting for obscure music or experimenting with sound production.
 
