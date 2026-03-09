@@ -6,7 +6,7 @@
   **AV/IT Project Lead & Python enthusiast.**  
   I build tools to make the complex repeatable and the boring automated.
 
-  [Portfolio](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
+  [Personal Site](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
 </div>
 
 ---
