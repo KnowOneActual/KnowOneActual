@@ -1,7 +1,5 @@
 <div align="center">
   <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau's Badge" width="220">
-
-  # Hi, I'm Beau.
   
   **AV/IT Project Lead & Python enthusiast.**  
   I build tools to make the complex repeatable and the boring automated.
