@@ -98,8 +98,9 @@ graph TD
     style H fill:#4EAA25,stroke:#fff,stroke-width:2px,color:#fff
     style J fill:#f39c12,stroke:#fff,stroke-width:1px,color:#fff
 ```
-(* This is just a quick proof of concept. I'm exploring how mermaid graphs work and figuring out how to incorporate them.)
+
 ---
+( * This is just a quick proof of concept. Exploring how mermaid graphs work and figuring out how to incorporate them.)
 
 ### 🌐 My Ecosystem
 *Where I spend my time online.*
