@@ -23,7 +23,7 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 
 **Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 **AV/Video:** CasparCG • vMix • Linux Show Player • FFmpeg  
-**OS:** Fedora (Workstation) • macOS (Production) • Linux (Servers)
+**OS:** Fedora (Workstation) • macOS (Production) • Ubuntu and BSD Linux (Servers)
 
 ---
 
