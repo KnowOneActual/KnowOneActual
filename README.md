@@ -6,7 +6,7 @@
 
   [Personal Site](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
 
-  [![License](https://img.shields.io/github/license/KnowOneActual/KnowOneActual?style=flat-square&color=blue)](LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
   [![Latest blog post workflow](https://github.com/KnowOneActual/KnowOneActual/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/KnowOneActual/KnowOneActual/actions/workflows/blog-post-workflow.yml)
 </div>
 

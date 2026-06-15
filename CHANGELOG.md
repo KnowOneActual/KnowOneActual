@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed temporary proof-of-concept notes from Mermaid diagram for a polished, production-ready look.
 
 ### Fixed
+- Replaced dynamic license badge with a static MIT license badge to prevent Shields.io rate-limiting and GitHub API token pool exhaustion errors.
 - Resolved `blog-post-workflow.yml` failures and Node.js 20 deprecation warnings.
   - Mitigated 403 Forbidden errors by adding retry logic (`retry_count: 5`, `retry_wait_time: 10`) to the `gautamkrishnar/blog-post-workflow` action.
   - Addressed Node.js 20 deprecation by moving the `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24` environment variable to the job level for `actions/checkout@v4` and `gautamkrishnar/blog-post-workflow@v1`, ensuring they run with Node.js 24.
