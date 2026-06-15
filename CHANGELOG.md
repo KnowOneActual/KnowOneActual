@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Integrated license badge and license section to README, referencing the MIT License.
+- Formatted the secondary projects list ("Other Utilities") into a structured, problem-solving table layout.
+
 ### Changed
 - Streamlined profile README copy to improve readability, ensuring clear, accessible English.
 - Standardized profile job titles to match "AV/IT Field Engineer & Python Developer".

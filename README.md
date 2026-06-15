@@ -2,9 +2,11 @@
   <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau's Badge" width="220">
   
   **AV/IT Field Engineer & Python Developer**  
-  I build automation tools for live event systems, networks, and desktop environments.
+  I build automation tools for live event systems and enterprise networks.
 
   [Personal Site](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
+
+  [![License](https://img.shields.io/github/license/KnowOneActual/KnowOneActual?style=flat-square&color=blue)](LICENSE)
 </div>
 
 ---
@@ -43,9 +45,12 @@ Currently, I focus on GPU video transcoding and Docker for live AV.
 ---
 
 #### 🔧 Other Utilities
-- **[Conversational Weather Bot](https://beaubremer.com/weather)** – AI-powered weather assistant using Gemini & OpenWeather.
-- **[AV IP Subnet Calculator](https://beaubremer.com/ip_subnet_calculator)** – Tailored for techs wiring sites in the field.
-- **[macos-dev-launcher](https://github.com/KnowOneActual/macos-dev-launcher)** – A macOS Quick Action to spin up my dev environment.
+
+| **Project** | **The Problem & Solution** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **[Weather Bot](https://beaubremer.com/weather)** | Static forecasts are hard to digest. This AI bot provides natural, conversational weather updates. | `Python`, `Gemini API`, `OpenWeather` |
+| **[AV Subnet Calculator](https://beaubremer.com/ip_subnet_calculator)** | Ad-heavy calculators waste time. This is a clean, ad-free IP calculator tailored for field techs. | `JavaScript`, `HTML`, `CSS` |
+| **[macos-dev-launcher](https://github.com/KnowOneActual/macos-dev-launcher)** | Launching terminal/IDE/Docker manually wastes time. Spins up the dev environment in one click. | `Bash`, `AppleScript` |
 
 ---
 
@@ -108,4 +113,9 @@ graph TD
 **Ventures:** [RGBsquared Media](https://rgbsquared.com) (Consulting) • [The Tuesday Firm](https://tuesdayfirm.dev) (Dev)  
 **Social:** [Bluesky](https://bsky.app/profile/grimburly.xyz) • [Mastodon](https://defcon.social/@GrimBurly)  
 **Misc:** [Profit & Ego](https://profitandego.com) (Comedy) • [GrimBurly.xyz](https://grimburly.xyz) (Personal Hub)
+
+---
+
+### 📄 License
+This repository is open-source and available under the [MIT License](LICENSE).
 
