@@ -7,6 +7,7 @@
   [Personal Site](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
 
   [![License](https://img.shields.io/github/license/KnowOneActual/KnowOneActual?style=flat-square&color=blue)](LICENSE)
+  [![Latest blog post workflow](https://github.com/KnowOneActual/KnowOneActual/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/KnowOneActual/KnowOneActual/actions/workflows/blog-post-workflow.yml)
 </div>
 
 ---
@@ -23,9 +24,10 @@ Currently, I focus on GPU video transcoding and Docker for live AV.
 ### 🛠️ The Toolkit
 *Clean, functional, and mostly open-source.*
 
-**Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+**Languages & Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)  
+**Tools & Platforms:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)  
 **AV/Video:** CasparCG • vMix • Linux Show Player • FFmpeg  
-**OS:** Fedora (Workstation) • macOS (Production) • Ubuntu and BSD Linux (Servers)
+**OS:** ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Ubuntu • BSD
 
 ---
 
