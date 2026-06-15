@@ -1,8 +1,8 @@
 <div align="center">
   <img src="img/profile/GitHub_KOA_Badge.webp" alt="Beau's Badge" width="220">
   
-  **AV/IT Project Lead & Python enthusiast.**  
-  I build tools to make the complex repeatable and the boring automated.
+  **AV/IT Field Engineer & Python Developer**  
+  I build automation tools for live event systems, networks, and desktop environments.
 
   [Personal Site](https://beaubremer.com) • [Blog](https://blog.beaubremer.com) • [Bluesky](https://bsky.app/profile/grimburly.xyz)
 </div>
@@ -10,11 +10,11 @@
 ---
 
 ### ☕ About Me
-I've spent well over a decade managing complex AV systems and IT operations in Chicago. I started automating things because I believe that if you have to do it twice, it should probably be a script. 
+I manage AV systems and IT networks in Chicago. I have over fifteen years of field experience. I write Python and Bash scripts to automate my work.
 
-I specialize in **Python automation**, **network triage**, and **custom tooling** for live environments. When I'm not staring at a terminal, I'm usually hunting for obscure music or experimenting with sound production.
+I build custom tools for live events. I deploy network hardware and configure VLANs. I also work with Docker and video files.
 
-**Currently focused on:** GPU-accelerated video transcoding and Docker for live AV.
+Currently, I focus on GPU video transcoding and Docker for live AV.
 
 ---
 
@@ -61,6 +61,7 @@ I specialize in **Python automation**, **network triage**, and **custom tooling*
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 ### 📐 How I Solve Problems
 *Bridging the gap between physical AV systems and automated IT workflows.*
 
@@ -100,7 +101,6 @@ graph TD
 ```
 
 ---
-( * This is just a quick proof of concept. Exploring how mermaid graphs work and figuring out how to incorporate them.)
 
 ### 🌐 My Ecosystem
 *Where I spend my time online.*
@@ -108,3 +108,4 @@ graph TD
 **Ventures:** [RGBsquared Media](https://rgbsquared.com) (Consulting) • [The Tuesday Firm](https://tuesdayfirm.dev) (Dev)  
 **Social:** [Bluesky](https://bsky.app/profile/grimburly.xyz) • [Mastodon](https://defcon.social/@GrimBurly)  
 **Misc:** [Profit & Ego](https://profitandego.com) (Comedy) • [GrimBurly.xyz](https://grimburly.xyz) (Personal Hub)
+
