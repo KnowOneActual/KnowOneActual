@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Streamlined profile README copy to improve readability, ensuring clear, accessible English.
+- Standardized profile job titles to match "AV/IT Field Engineer & Python Developer".
+- Removed temporary proof-of-concept notes from Mermaid diagram for a polished, production-ready look.
+
 ### Fixed
 - Resolved `blog-post-workflow.yml` failures and Node.js 20 deprecation warnings.
   - Mitigated 403 Forbidden errors by adding retry logic (`retry_count: 5`, `retry_wait_time: 10`) to the `gautamkrishnar/blog-post-workflow` action.
